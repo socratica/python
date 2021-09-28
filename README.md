@@ -6,16 +6,15 @@ In late 2019 we ran a Kickstarter project to fund the creation of 20 Advanced Py
 
 ## Completed Videos
 1. [XML](https://youtu.be/j0xr0-IAqyk)
+2. [Special Methods](https://youtu.be/IkWrlRei0uA)
 
-### In Development
+### In Production
 ```
-> Special Methods
 > Generators & Iterators
 ```
 
 ### Upcoming Videos
 ```
-> Modules & Packages
 > Async IO
 > Decorators
 > Regex
