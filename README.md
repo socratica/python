@@ -7,17 +7,19 @@ In late 2019 we ran a Kickstarter project to fund the creation of 20 Advanced Py
 ## Completed Videos
 1. [XML](https://youtu.be/j0xr0-IAqyk)
 2. [Special Methods](https://youtu.be/IkWrlRei0uA)
+3. [Iterators, Iterables, and Itertools](https://www.youtube.com/watch?v=WR7mO_jYN9g)
+4. [Generators](https://www.youtube.com/watch?v=gMompY5MyPg)
+5. [Regular Expressions](https://www.youtube.com/watch?v=nxjwB8up2gI)
 
 ### In Production
 ```
-> Generators & Iterators
+> SQLite
 ```
 
 ### Upcoming Videos
 ```
 > Async IO
 > Decorators
-> Regex
 > Threads
 ```
 
