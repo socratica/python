@@ -24,4 +24,4 @@ In late 2019 we ran a Kickstarter project to fund the creation of 20 Advanced Py
 ```
 
 ## Socratica Python Mailing List
-We have an epic - yet infrequent - email list for people who love Python and want to know about new things and stuff from Socratica.  To join this free mailing list for the low price of $0, just move your mouse over this link:  https://www.socratica.com/email-groups/python
+We have an epic - yet infrequent - email list for people who love Python and want to know about new things and stuff from Socratica.  To join this free mailing list for the low price of $0, just move your mouse over this link:  [https://snu.socratica.com/python](https://snu.socratica.com/python)
