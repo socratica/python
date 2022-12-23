@@ -2,9 +2,9 @@
 This is the repository for all code samples, libraries, and other materials to help you learn Python with **Socratica**.  You can view all of our videos on our website at https://www.socratica.com/subject/python
 
 ## Kickstarter Progress
-In late 2019 we ran a Kickstarter project to fund the creation of 20 Advanced Python videos.  And we are so excited it was a success!  Production was delayed in 2020 because, well, it was 2020.  But production is back on track - 2021 is going to be the Year of Python here at Socratica.  You can follow our progress at https://www.kickstarter.com/projects/socraticastudios/socratica-presents-python-tutorial-videos
+Generous backers funded the production of 20 advanced Python videos. You can follow our progress at https://www.kickstarter.com/projects/socraticastudios/socratica-presents-python-tutorial-videos
 
-## Completed Videos
+## Recently Completed Videos
 1. [XML](https://youtu.be/j0xr0-IAqyk)
 2. [Special Methods](https://youtu.be/IkWrlRei0uA)
 3. [Iterators, Iterables, and Itertools](https://www.youtube.com/watch?v=WR7mO_jYN9g)
