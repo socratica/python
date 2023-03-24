@@ -1,4 +1,4 @@
-# Socratica Python 
+# Socratica Python
 This is the repository for all code samples, libraries, and other materials to help you learn Python with **Socratica**.  You can view all of our videos on our website at https://www.socratica.com/subject/python
 
 ## Kickstarter Progress
@@ -14,14 +14,22 @@ Generous backers funded the production of 20 advanced Python videos. You can fol
 ### In Production
 ```
 > SQLite
+> Decorators
+> Async IO
+> OOP (advanced version)
+> Threads
+> Modules and Packages
 ```
 
 ### Upcoming Videos
 ```
-> Async IO
-> Decorators
-> Threads
+> HTTP Client
+> HTTP Server
+> Matplotlib
+> tkinter
+> Pandas
+> 3-part Machine Learning tutorial
 ```
 
 ## Socratica Python Mailing List
-We have an epic - yet infrequent - email list for people who love Python and want to know about new things and stuff from Socratica.  To join this free mailing list for the low price of $0, just move your mouse over this link:  [https://snu.socratica.com/python](https://snu.socratica.com/python)
+We have a tastefully infrequent email list for people who love Python and want to know about new things and stuff from Socratica.  To join this free mailing list for the low price of $0, just move your mouse over this link:  [https://snu.socratica.com/python](https://snu.socratica.com/python)
