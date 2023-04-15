@@ -10,10 +10,10 @@ Generous backers funded the production of 20 advanced Python videos. You can fol
 3. [Iterators, Iterables, and Itertools](https://www.youtube.com/watch?v=WR7mO_jYN9g)
 4. [Generators](https://www.youtube.com/watch?v=gMompY5MyPg)
 5. [Regular Expressions](https://www.youtube.com/watch?v=nxjwB8up2gI)
+6. [SQLite](https://www.youtube.com/watch?v=c8yHTlrs9EA)
 
 ### In Production
 ```
-> SQLite
 > Decorators
 > Async IO
 > OOP (advanced version)
