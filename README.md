@@ -33,6 +33,7 @@ Generous backers funded the production of 20 advanced Python videos. You can fol
 > SciPy
 > TensorFlow
 > Multiprocessing
+> Coding with an AI Assistant
 ```
 
 ## Socratica Python Mailing List
