@@ -28,7 +28,11 @@ Generous backers funded the production of 20 advanced Python videos. You can fol
 > Matplotlib
 > tkinter
 > Pandas
-> 3-part Machine Learning tutorial
+> Numpy
+> PyTorch
+> SciPy
+> TensorFlow
+> Multiprocessing
 ```
 
 ## Socratica Python Mailing List
