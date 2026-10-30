@@ -1,5 +1,5 @@
 # Socratica Python
-This is the repository for all code samples, libraries, and other materials to help you learn Python with **Socratica**.  You can view all of our videos on our website at https://www.socratica.com/subject/python
+This is the repository for all code samples, libraries, and other materials to help you learn Python with **Socratica**.  Our free Python course is at https://www.socratica.com/courses/python
 
 ## Kickstarter Progress
 Generous backers funded the production of 20 advanced Python videos. You can follow our progress at https://www.kickstarter.com/projects/socraticastudios/socratica-presents-python-tutorial-videos
